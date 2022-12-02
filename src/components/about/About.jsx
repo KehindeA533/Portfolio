@@ -39,7 +39,7 @@ export default function About() {
                         </article>
                     </div> */}
                     <p>
-                    Hi my name is Kehinde, I’m a highly motivated, self-starting solidity developer who is continuously learning and growing. I’ve spent the last year learning and practicing Solidity, Ethers.js, Hardhat, JavaScript, and TailwindCSS to contribute to the web3 ecosystem. I've always strive to be the best in whatever I’m doing, whether I’m learning from scratch or building on my skill. I like things that challenge me, bring out my creative side, and teach me something new. It’s nice to meet you and let’s connect.
+                    Hi my name is Kehinde, I’m a highly motivated, self-starting solidity developer who is continuously learning and growing. I'm proficient in Solidity,  Ethers.js, Hardhat, JavaScript, and TailwindCSS and knowledgeable on blockchain technology. I've always strive to be the best in whatever I’m doing, whether I’m learning from scratch or building on my skill. I like things that challenge me, bring out my creative side, and teach me  something new. I look forward to contributing to the web3 ecosystem.
                     </p>
 
                     <a href="#contact" className="btn btn-primary">Lets talk</a>
