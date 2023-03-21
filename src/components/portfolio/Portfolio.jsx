@@ -37,7 +37,7 @@ const data = [
     image: IMG1,
     title: "CryptoDev ICO",
     github: "https://github.com/LegatoReign/CryptoDev_dApp",
-    demo: "#",
+    website: "#",
   },
 
   {
@@ -45,7 +45,7 @@ const data = [
     image: IMG3,
     title: "CryptoDev DAO",
     github: "https://github.com/LegatoReign/CryptoDev_dApp",
-    demo: "#",
+    website: "#",
   },
 
   // {
